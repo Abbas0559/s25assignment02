@@ -1,13 +1,22 @@
-/* Home Page Styles */
-body {
-    font-family: Arial, sans-serif;
+/* product_details page Styles */
+body, h1 , h2, p {
+    padding: 0%;
+    margin: 0%;
 }
-header, footer {
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     background-color: #5c0000;
     color: rgb(255, 0, 0);
     padding: 1rem;
 }
-.featured-products {
-    display: grid;
-    gap: 1rem;
+.product-info ul {
+    margin: 15px 0;
+    padding-left: 20px;
+}
+button{
+    background-color: green;
+    border-radius: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-size: 16px;
 }
