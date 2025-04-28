@@ -1,5 +1,4 @@
 
-/* Product Listing Styles */
 body, h1, h2, p {
     margin: 0;
     padding: 0;
@@ -57,3 +56,4 @@ button {
 button:hover {
     background-color: #0056b3;
 }
+
